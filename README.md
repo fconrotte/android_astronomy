@@ -25,6 +25,5 @@ This example code is in the public domain.
 
 Forked from http://www.arduino.cc/en/Tutorial/Fade
 
-
-
+You can edit the code using the Arduino Editor:
 https://create.arduino.cc/editor/fconrotte/5fc51e46-d3e2-46ef-8f35-2deccc3d5cf6
