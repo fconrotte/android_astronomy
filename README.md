@@ -9,9 +9,9 @@ A strong direct relationship between a Cepheid variable's luminosity and pulsati
 More infos:
 https://en.wikipedia.org/wiki/Cepheid_variable
 
-The code to upload in your Arduino is in the cepheids.ino file.
-schematics.png shows the logical connections shema.
-layout.png shows how to connect your Arduino to a board.
+- The code to upload in your Arduino is in the cepheids.ino file.
+- schematics.png shows the logical connections shema.
+- layout.png shows how to connect your Arduino to a board.
 
 Cepheids pulsing period & brightness
 
